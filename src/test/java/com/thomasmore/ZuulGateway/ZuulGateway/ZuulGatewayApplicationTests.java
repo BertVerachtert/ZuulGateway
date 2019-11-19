@@ -1,4 +1,4 @@
-package com.thomasmore.ZuulGateway;
+package com.thomasmore.ZuulGateway.ZuulGateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
