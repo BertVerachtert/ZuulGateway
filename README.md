@@ -1,6 +1,7 @@
 # Zuul Gateway
 
-Dit is de springboot app die ervoor zorgt dat we dynamische url's kunnen gebruiken voor onze applicatie.
+Deze service maakt deel uit van een groter project: wikiart.
+De zuul gateway zet zich op tussen de front end angular applicatie en de edge service. De gateway zorgt voor een beveiliging in communicatie en zal ook deels voor load balance zorgen.
 
 Andere repo's voor deze applicatie:
 https://github.com/WesleyMonten/Genre-Service  
